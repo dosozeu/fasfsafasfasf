@@ -1,0 +1,5 @@
+pyTelegramBotAPI
+openai
+numpy
+requests
+streamlit
